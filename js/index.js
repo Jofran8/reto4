@@ -1,9 +1,9 @@
 "use strict";
 const documentReady = () => {
   const phrases = [
-    "😘 Welcome ",
-    "👽 Have a good time ",
-    "😎 You're the best, welcome ",
+    "📚 Welcome ",
+    "Have a good time, welcome 📙",
+    "😎 You're the best, welcome 📓",
   ];
 
   const random = Math.floor(Math.random() * phrases.length);
