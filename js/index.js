@@ -14,9 +14,5 @@ const documentReady = () => {
     }catch(e){
     alert(e) 
     }
-
-
-
-
-};
+}
 document.addEventListener('DOMContentLoaded', documentReady);
